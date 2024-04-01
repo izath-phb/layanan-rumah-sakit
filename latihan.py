@@ -1,0 +1,8 @@
+print(10*'=','selamat datang dilayan rumah sakit kami',10*'=')
+nama=str(input('masukan nama : '))
+usia=int(input('usia : '))
+alamat=(input('alamat : '))
+print(20*'==')
+keluhan=(input('apa keluhan anda : '))
+print(20*'==')
+print(f'terima kasih {nama} telah menggunakan program ini👌')
